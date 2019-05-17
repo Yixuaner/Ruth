@@ -16,17 +16,17 @@ img{
   height: auto;
   margin: auto;
 }
-#img-div{
+#img-words{
   margin:-5px;
   margin-top:20px;
   width:100%;
   border:5px solid white;
   background:white;
 }
-#img-caption{
+#words{
   margin:15px;
 }
-#headline{
+#ziliao-jieshao{
   margin-top:50px;
   text-align:left;
 }
@@ -37,5 +37,5 @@ ul{
 }
 p{
   margin: 10px;
+  text-align: left;
 }
-
